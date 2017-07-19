@@ -1,0 +1,19 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "This is a challenge app for jazidas.com",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Nicácio Arruda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mssql": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
